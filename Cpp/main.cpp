@@ -1,8 +1,4 @@
-#include <iostream>
-
-void Hello_World(float t){
-  std::cout << "Hello World! at t=" << t << std::endl;  
-}
+#include "mdt.h"
 
 int main() {
   float t = 0.0;
