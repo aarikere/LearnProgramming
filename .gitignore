@@ -4,6 +4,7 @@
 
 # Built files
 *.out
+Ada/obj/
 
 # Autosave files
 *.*~
